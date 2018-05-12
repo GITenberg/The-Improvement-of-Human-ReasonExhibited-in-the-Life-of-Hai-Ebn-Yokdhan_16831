@@ -1,0 +1,34 @@
+_repo: The-Improvement-of-Human-ReasonExhibited-in-the-Life-of-Hai-Ebn-Yokdhan_16831
+_version: 0.1.0
+alternative_title: Hayy bin Yaqzan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibn Tufayl, Muhammad ibn 'Abd al-Malik
+    aliases:
+    - Tufail, Muhammad ibn 'Abd al-Malik Ibn
+    - Ibn Tufail
+    - Tufail, Ibn
+    deathdate: 1185
+    gutenberg_agent_id: '6959'
+    url: http://www.gutenberg.org/2009/agents/6959
+    wikipedia: http://en.wikipedia.org/wiki/Ibn_Tufail
+description: ''
+gutenberg_bookshelf: Islam
+gutenberg_issued: '2005-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Islamic philosophy -- Early works to 1800'
+title: 'The Improvement of Human Reason
+
+  Exhibited in the Life of Hai Ebn Yokdhan'
+url: http://www.gutenberg.org/ebooks/16831
