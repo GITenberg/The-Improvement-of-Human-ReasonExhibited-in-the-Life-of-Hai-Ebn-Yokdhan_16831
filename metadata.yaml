@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6959
     wikipedia: http://en.wikipedia.org/wiki/Ibn_Tufail
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16831#The-Improvement-of-Human-ReasonExhibited-in-the-Life-of-Hai-Ebn-Yokdhan
 gutenberg_bookshelf: Islam
 gutenberg_issued: '2005-10-08'
 gutenberg_type: Text
